@@ -42,6 +42,10 @@ module.exports = {
     EstadoPago,
     MetodoPago,
     Pago
+<<<<<<< HEAD
 };
 
 prueba
+=======
+};
+>>>>>>> a6042257d58541c0f91de0f5333ee25cf8f83cc4
